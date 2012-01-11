@@ -1,0 +1,8 @@
+17:08:31 INFO  com.azry.dispatch.Starter:54 - Starting g200/g300 server on port: 4001
+17:08:32 INFO  com.azry.dispatch.Starter:49 - Data will be logged in the file "c:\output\yyyy\MM\dd"
+	Where "yyyy" is the current year "MM" is the current month and "dd" is the current day
+17:08:52 ERROR com.azry.dispatch.GPSModemHandler:273 - An existing connection was forcibly closed by the remote host
+17:09:18 ERROR com.azry.dispatch.GPSModemHandler:273 - An existing connection was forcibly closed by the remote host
+17:09:55 INFO  com.azry.dispatch.G200_300Decoder:37 - Received package decode start: 1320066595583ms from device: 66219
+17:10:55 INFO  com.azry.dispatch.G200_300Decoder:37 - Received package decode start: 1320066655623ms from device: 66219
+17:11:00 INFO  com.azry.dispatch.G200_300Decoder:141 - Received package decode end: 1320066660380ms from device: 66219
